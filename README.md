@@ -1,2 +1,2 @@
 # LearningPython
-This is an online cloud which store the drafts of my code of learing bioinformatics using python.
+1.This is an online cloud which store the drafts of my python codes.
